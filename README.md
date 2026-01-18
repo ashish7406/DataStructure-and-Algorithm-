@@ -15,7 +15,7 @@ This repository is created for learning and educational purposes. The goal is to
 
 | Date | Problem ID | Problem Title | Difficulty | Folder Link |
 |------|------------|---------------|------------|-------------|
-| 2026-01-18 | 3191 | Find the Maximum Sub Array | Medium | [Link](Medium/2025-08-22-3191-FindTheMinimumAreaToCoverAllOnesI/) |
+| 2026-01-18 | 3191 | Find the Maximum Sub Array | Medium | [Link](https://github.com/ashish7406/DataStructure-and-Algorithm-/tree/main/Arrays) |
 | 2025-08-21 | 1504 | Count Submatrices with All Ones | Medium | [Link](Medium/2025-08-21-1504-CountSubmatricesWithAllOnes/) |
 | 2025-08-20 | 1277 | Count Square Submatrices with All Ones | Medium | [Link](Medium/2025-08-20-1277-CountSquareSubmatricesWithAllOnes/) |
 
